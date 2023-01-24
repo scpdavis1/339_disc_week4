@@ -1,0 +1,39 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+ 
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+ 
+ 
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+    text-transform: capitalize;
+    border-radius: 30px;
+    border: solid 1px black;
+    background-color: aqua;
+    display: inline-block;
+    padding: 10px;
+    text-align: justify left;
+    width: 150px;
+ }
+ 
+img{
+    width: 24%;
+    padding: 12px;
+    border-style: inset;
+
+}
+
+p{
+    color: navy;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
