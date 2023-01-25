@@ -1,0 +1,50 @@
+body {
+    margin: 5px;
+    padding: 5px;
+    line-height: 1.15;
+}
+
+
+h1,
+h2,
+h3 {
+    font-weight: bold;
+    margin-top: 15px;
+
+
+}
+
+ul li {
+    margin-left: 25px;
+    list-style-type: upper-roman;
+    background-color: aqua;
+    border: 2px solid;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.haha {
+    border-style: groove;
+    border-color: GREEN;
+    border-width: 10px;
+    box-sizing: border-box;
+    width: 24%;
+    padding: 12px;
+    margin: 0px;
+
+}
+
+#xixi {
+    box-sizing: border-box;
+    width: 90%;
+    margin: 5%;
+}
+
+p {
+    border: 2px solid greenyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    color: navy;
+}
